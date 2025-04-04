@@ -7,8 +7,6 @@ Containers images with tools for developers 👨‍💻👩‍💻
 
 ## Developer Base Image
 
-### Red Hat Universal Base Image ([UBI](https://developers.redhat.com/articles/ubi-faq#)) based image ([quay.io/devfile/base-developer-image:ubi9-latest](https://quay.io/repository/devfile/base-developer-image))
-
 Run the following command to test it with Docker:
 
 ```bash
