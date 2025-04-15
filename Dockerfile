@@ -41,7 +41,7 @@ install -m 755 terraform /usr/local/bin/
 cd - && rm -rf "${TEMP_DIR}"
 EOF
 
-# add terraform vscode extention
+# add terraform vscode extension
 COPY terraform.vsix /home/tooling/
 
 
